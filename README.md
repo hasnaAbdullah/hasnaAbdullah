@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Abdullah
+#### junior frontend developer
+![junior frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hi, I'm a junior frontend web developer, comfortable showcasing myself as a passionate and dedicated developer through my work rather than words. I have been learning and working seriously on frontend development since 2023. I am very familiar with JavaScript, an incredible library like React JS. By the way, I'm from Dhaka Bangladesh.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-**hasnaAbdullah/hasnaAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasnaAbdullah)  
+
+
 
 Here are some ideas to get you started:
 
