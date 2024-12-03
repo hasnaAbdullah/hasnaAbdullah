@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Abdullah
-#### junior frontend developer
+## Hi there 👋, I'm Abdullah
+### junior frontend developer
 ![junior frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hi, I'm a junior frontend web developer, comfortable showcasing myself as a passionate and dedicated developer through my work rather than words. I have been learning and working seriously on frontend development since 2023. I am very familiar with JavaScript, an incredible library like React JS. By the way, I'm from Dhaka Bangladesh.
