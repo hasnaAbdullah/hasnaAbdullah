@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abdullah
 ## junior frontend developer
-![junior frontend developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/409173506_317579681165413_7185527513293256478_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4sTz2VN2gLoQ7kNvgFN1kca&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=AlZlMW_fcCuDBJ2X97T35IK&oh=00_AYArbYecSZUnWHj2HKkSOKPGrwp5e8sbVjzEdw62SJA7Ow&oe=67547B3B)
+
 
 Hi, I'm a junior frontend web developer, comfortable showcasing myself as a passionate and dedicated developer through my work rather than words. I have been learning and working seriously on frontend development since 2023. I am very familiar with JavaScript, an incredible library like React JS. By the way, I'm from Dhaka Bangladesh.
 
